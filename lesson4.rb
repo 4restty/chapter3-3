@@ -1,0 +1,1 @@
+puts name = "Shota Egami"
